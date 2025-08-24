@@ -1,0 +1,17 @@
+Model	: 3CONV_CIFAR10_adam_LR1e-03_BS64_E100_ACC82.49
+Accuracy	: 82.49%
+Precision	: 82.72%
+Recall		: 82.49%
+F1 Score	: 82.26%
+
+Class-wise metrics:
+Class 0 ->	Precision: 82.13%	, Recall: 82.70%	, F1: 82.41%
+Class 1 ->	Precision: 89.49%	, Recall: 93.70%	, F1: 91.55%
+Class 2 ->	Precision: 73.48%	, Recall: 75.90%	, F1: 74.67%
+Class 3 ->	Precision: 75.74%	, Recall: 63.70%	, F1: 69.20%
+Class 4 ->	Precision: 81.74%	, Recall: 81.00%	, F1: 81.37%
+Class 5 ->	Precision: 89.30%	, Recall: 65.90%	, F1: 75.83%
+Class 6 ->	Precision: 74.54%	, Recall: 93.70%	, F1: 83.03%
+Class 7 ->	Precision: 85.08%	, Recall: 87.80%	, F1: 86.42%
+Class 8 ->	Precision: 87.79%	, Recall: 89.90%	, F1: 88.83%
+Class 9 ->	Precision: 87.96%	, Recall: 90.60%	, F1: 89.26%

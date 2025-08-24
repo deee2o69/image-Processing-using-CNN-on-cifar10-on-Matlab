@@ -1,0 +1,17 @@
+Model	: 3CONV_CIFAR10_rmsprop_LR1e-02_BS128_E100_ACC59.76
+Accuracy	: 59.76%
+Precision	: 60.13%
+Recall		: 59.76%
+F1 Score	: 57.82%
+
+Class-wise metrics:
+Class 0 ->	Precision: 57.62%	, Recall: 70.70%	, F1: 63.49%
+Class 1 ->	Precision: 73.38%	, Recall: 87.10%	, F1: 79.65%
+Class 2 ->	Precision: 46.82%	, Recall: 39.80%	, F1: 43.03%
+Class 3 ->	Precision: 41.40%	, Recall: 23.10%	, F1: 29.65%
+Class 4 ->	Precision: 47.65%	, Recall: 49.70%	, F1: 48.65%
+Class 5 ->	Precision: 71.21%	, Recall: 23.50%	, F1: 35.34%
+Class 6 ->	Precision: 47.64%	, Recall: 82.90%	, F1: 60.51%
+Class 7 ->	Precision: 68.38%	, Recall: 62.50%	, F1: 65.31%
+Class 8 ->	Precision: 73.95%	, Recall: 79.20%	, F1: 76.48%
+Class 9 ->	Precision: 73.24%	, Recall: 79.10%	, F1: 76.06%

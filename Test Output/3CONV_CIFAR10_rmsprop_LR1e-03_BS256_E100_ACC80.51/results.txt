@@ -1,0 +1,17 @@
+Model	: 3CONV_CIFAR10_rmsprop_LR1e-03_BS256_E100_ACC80.51
+Accuracy	: 80.51%
+Precision	: 81.19%
+Recall		: 80.51%
+F1 Score	: 80.31%
+
+Class-wise metrics:
+Class 0 ->	Precision: 77.29%	, Recall: 86.10%	, F1: 81.46%
+Class 1 ->	Precision: 89.64%	, Recall: 91.70%	, F1: 90.66%
+Class 2 ->	Precision: 66.73%	, Recall: 75.40%	, F1: 70.80%
+Class 3 ->	Precision: 74.29%	, Recall: 60.40%	, F1: 66.63%
+Class 4 ->	Precision: 81.19%	, Recall: 73.40%	, F1: 77.10%
+Class 5 ->	Precision: 88.49%	, Recall: 61.50%	, F1: 72.57%
+Class 6 ->	Precision: 69.80%	, Recall: 92.20%	, F1: 79.45%
+Class 7 ->	Precision: 86.26%	, Recall: 86.00%	, F1: 86.13%
+Class 8 ->	Precision: 90.46%	, Recall: 88.20%	, F1: 89.32%
+Class 9 ->	Precision: 87.74%	, Recall: 90.20%	, F1: 88.95%

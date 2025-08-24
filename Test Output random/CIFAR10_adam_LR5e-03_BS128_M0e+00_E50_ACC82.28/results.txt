@@ -1,0 +1,17 @@
+Model: CIFAR10_adam_LR5e-03_BS128_M0e+00_E50_ACC82.28.mat
+Accuracy: 0.8228
+Precision (macro): 0.8238
+Recall (macro): 0.8228
+F1 Score (macro): 0.8229
+
+Class-wise metrics:
+Class 0 -> Precision: 0.7915, Recall: 0.8580, F1: 0.8234
+Class 1 -> Precision: 0.9483, Recall: 0.8810, F1: 0.9134
+Class 2 -> Precision: 0.7449, Recall: 0.7650, F1: 0.7548
+Class 3 -> Precision: 0.6805, Recall: 0.6390, F1: 0.6591
+Class 4 -> Precision: 0.8115, Recall: 0.8050, F1: 0.8082
+Class 5 -> Precision: 0.7377, Recall: 0.7790, F1: 0.7578
+Class 6 -> Precision: 0.8698, Recall: 0.8620, F1: 0.8659
+Class 7 -> Precision: 0.8639, Recall: 0.8380, F1: 0.8508
+Class 8 -> Precision: 0.8891, Recall: 0.8980, F1: 0.8935
+Class 9 -> Precision: 0.9012, Recall: 0.9030, F1: 0.9021

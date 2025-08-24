@@ -1,0 +1,17 @@
+Model	: 2CONV_CIFAR10_sgdm_LR1e-02_BS128_M9e-01_E100_ACC57.08
+Accuracy	: 57.08%
+Precision	: 57.44%
+Recall		: 57.08%
+F1 Score	: 55.29%
+
+Class-wise metrics:
+Class 0 ->	Precision: 53.60%	, Recall: 69.90%	, F1: 60.68%
+Class 1 ->	Precision: 67.95%	, Recall: 77.60%	, F1: 72.46%
+Class 2 ->	Precision: 40.56%	, Recall: 33.30%	, F1: 36.57%
+Class 3 ->	Precision: 45.14%	, Recall: 24.60%	, F1: 31.84%
+Class 4 ->	Precision: 54.89%	, Recall: 46.60%	, F1: 50.41%
+Class 5 ->	Precision: 63.61%	, Recall: 25.70%	, F1: 36.61%
+Class 6 ->	Precision: 47.78%	, Recall: 86.00%	, F1: 61.43%
+Class 7 ->	Precision: 57.26%	, Recall: 69.00%	, F1: 62.59%
+Class 8 ->	Precision: 74.12%	, Recall: 63.00%	, F1: 68.11%
+Class 9 ->	Precision: 69.54%	, Recall: 75.10%	, F1: 72.21%

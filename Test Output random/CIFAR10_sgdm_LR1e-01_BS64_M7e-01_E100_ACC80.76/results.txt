@@ -1,0 +1,17 @@
+Model: CIFAR10_sgdm_LR1e-01_BS64_M7e-01_E100_ACC80.76.mat
+Accuracy: 0.8076
+Precision (macro): 0.8127
+Recall (macro): 0.8076
+F1 Score (macro): 0.8061
+
+Class-wise metrics:
+Class 0 -> Precision: 0.7979, Recall: 0.8530, F1: 0.8246
+Class 1 -> Precision: 0.8983, Recall: 0.9360, F1: 0.9167
+Class 2 -> Precision: 0.6942, Recall: 0.7400, F1: 0.7164
+Class 3 -> Precision: 0.7337, Recall: 0.6090, F1: 0.6656
+Class 4 -> Precision: 0.7846, Recall: 0.7650, F1: 0.7747
+Class 5 -> Precision: 0.8590, Recall: 0.6460, F1: 0.7374
+Class 6 -> Precision: 0.6851, Recall: 0.9180, F1: 0.7846
+Class 7 -> Precision: 0.8745, Recall: 0.8290, F1: 0.8511
+Class 8 -> Precision: 0.9071, Recall: 0.8890, F1: 0.8980
+Class 9 -> Precision: 0.8928, Recall: 0.8910, F1: 0.8919

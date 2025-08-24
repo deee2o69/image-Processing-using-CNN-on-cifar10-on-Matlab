@@ -1,0 +1,17 @@
+Model: CIFAR10_sgdm_LR1e-02_BS32_M9e-01_E50_ACC80.36.mat
+Accuracy: 0.8036
+Precision (macro): 0.8053
+Recall (macro): 0.8036
+F1 Score (macro): 0.8037
+
+Class-wise metrics:
+Class 0 -> Precision: 0.8365, Recall: 0.8030, F1: 0.8194
+Class 1 -> Precision: 0.9055, Recall: 0.9100, F1: 0.9077
+Class 2 -> Precision: 0.6721, Recall: 0.7030, F1: 0.6872
+Class 3 -> Precision: 0.6725, Recall: 0.6530, F1: 0.6626
+Class 4 -> Precision: 0.7277, Recall: 0.8390, F1: 0.7794
+Class 5 -> Precision: 0.7631, Recall: 0.7120, F1: 0.7367
+Class 6 -> Precision: 0.8392, Recall: 0.8140, F1: 0.8264
+Class 7 -> Precision: 0.8715, Recall: 0.8140, F1: 0.8418
+Class 8 -> Precision: 0.8662, Recall: 0.9190, F1: 0.8918
+Class 9 -> Precision: 0.8987, Recall: 0.8690, F1: 0.8836

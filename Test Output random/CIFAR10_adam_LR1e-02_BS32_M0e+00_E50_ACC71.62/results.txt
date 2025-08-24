@@ -1,0 +1,17 @@
+Model: CIFAR10_adam_LR1e-02_BS32_M0e+00_E50_ACC71.62.mat
+Accuracy: 0.7162
+Precision (macro): 0.7187
+Recall (macro): 0.7162
+F1 Score (macro): 0.7149
+
+Class-wise metrics:
+Class 0 -> Precision: 0.7953, Recall: 0.6720, F1: 0.7285
+Class 1 -> Precision: 0.9064, Recall: 0.8130, F1: 0.8571
+Class 2 -> Precision: 0.5933, Recall: 0.5470, F1: 0.5692
+Class 3 -> Precision: 0.5663, Recall: 0.5510, F1: 0.5585
+Class 4 -> Precision: 0.6964, Recall: 0.6080, F1: 0.6492
+Class 5 -> Precision: 0.6597, Recall: 0.6610, F1: 0.6603
+Class 6 -> Precision: 0.7435, Recall: 0.8000, F1: 0.7707
+Class 7 -> Precision: 0.6409, Recall: 0.8210, F1: 0.7199
+Class 8 -> Precision: 0.7910, Recall: 0.8290, F1: 0.8096
+Class 9 -> Precision: 0.7941, Recall: 0.8600, F1: 0.8257

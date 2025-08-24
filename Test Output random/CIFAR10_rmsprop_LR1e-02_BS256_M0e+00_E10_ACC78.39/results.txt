@@ -1,0 +1,17 @@
+Model: CIFAR10_rmsprop_LR1e-02_BS256_M0e+00_E10_ACC78.39.mat
+Accuracy: 0.7839
+Precision (macro): 0.7974
+Recall (macro): 0.7839
+F1 Score (macro): 0.7855
+
+Class-wise metrics:
+Class 0 -> Precision: 0.8340, Recall: 0.7790, F1: 0.8056
+Class 1 -> Precision: 0.8876, Recall: 0.9160, F1: 0.9016
+Class 2 -> Precision: 0.6651, Recall: 0.7230, F1: 0.6929
+Class 3 -> Precision: 0.5535, Recall: 0.7190, F1: 0.6255
+Class 4 -> Precision: 0.8573, Recall: 0.6370, F1: 0.7309
+Class 5 -> Precision: 0.7779, Recall: 0.6550, F1: 0.7112
+Class 6 -> Precision: 0.8930, Recall: 0.7760, F1: 0.8304
+Class 7 -> Precision: 0.7232, Recall: 0.8910, F1: 0.7984
+Class 8 -> Precision: 0.8610, Recall: 0.9170, F1: 0.8881
+Class 9 -> Precision: 0.9208, Recall: 0.8260, F1: 0.8708
