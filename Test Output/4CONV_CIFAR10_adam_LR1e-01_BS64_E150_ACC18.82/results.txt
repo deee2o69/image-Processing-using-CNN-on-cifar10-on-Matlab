@@ -1,0 +1,17 @@
+Model	: 4CONV_CIFAR10_adam_LR1e-01_BS64_E150_ACC18.82
+Accuracy	: 18.82%
+Precision	: 9.71%
+Recall		: 18.82%
+F1 Score	: 9.93%
+
+Class-wise metrics:
+Class 0 ->	Precision: 27.27%	, Recall: 2.10%	, F1: 3.90%
+Class 1 ->	Precision: 19.53%	, Recall: 90.80%	, F1: 32.14%
+Class 2 ->	Precision: 12.51%	, Recall: 11.20%	, F1: 11.82%
+Class 3 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 4 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 5 ->	Precision: 17.66%	, Recall: 28.70%	, F1: 21.87%
+Class 6 ->	Precision: 20.12%	, Recall: 55.40%	, F1: 29.52%
+Class 7 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 8 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
+Class 9 ->	Precision: 0.00%	, Recall: 0.00%	, F1: 0.00%
