@@ -1,0 +1,17 @@
+Model	: 5CONV_CIFAR10_adam_LR1e-03_BS256_E300_ACC87.38
+Accuracy	: 87.38%
+Precision	: 87.69%
+Recall		: 87.38%
+F1 Score	: 87.28%
+
+Class-wise metrics:
+Class 0 ->	Precision: 86.36%	, Recall: 89.30%	, F1: 87.81%
+Class 1 ->	Precision: 96.85%	, Recall: 92.10%	, F1: 94.41%
+Class 2 ->	Precision: 86.55%	, Recall: 82.40%	, F1: 84.43%
+Class 3 ->	Precision: 84.73%	, Recall: 71.00%	, F1: 77.26%
+Class 4 ->	Precision: 90.28%	, Recall: 83.60%	, F1: 86.81%
+Class 5 ->	Precision: 87.65%	, Recall: 78.10%	, F1: 82.60%
+Class 6 ->	Precision: 75.83%	, Recall: 96.30%	, F1: 84.85%
+Class 7 ->	Precision: 88.45%	, Recall: 92.70%	, F1: 90.53%
+Class 8 ->	Precision: 90.63%	, Recall: 93.80%	, F1: 92.19%
+Class 9 ->	Precision: 89.57%	, Recall: 94.50%	, F1: 91.97%
